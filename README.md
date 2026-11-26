@@ -64,7 +64,7 @@ I am sharing sanitized configuration references, technical notes, and operationa
 
 My portfolio contains sanitized, source-derived configuration references and technical documentation from previous infrastructure and ISP engineering work. Sensitive production identifiers, credentials, and operational details are excluded.
 
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization) — Windows Server 2022/2025, Ubuntu Server 24.04 LTS, VMware ESXi, virtual machine deployment, storage and LVM, RAM and performance monitoring, network configuration, backup and recovery, and iDRAC/iLO/IPMI hardware management.
+- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio) — Windows Server 2022/2025, Ubuntu Server 24.04 LTS, VMware ESXi, virtual machine deployment, storage and LVM, RAM and performance monitoring, network configuration, backup and recovery, and iDRAC/iLO/IPMI hardware management.
 - [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
   - **Juniper**
     - [MX204](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx204)
