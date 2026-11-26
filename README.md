@@ -1,6 +1,8 @@
 # Md. Tanvir Hossain
 
-### System Engineer | Network & IT Infrastructure | Enterprise Operations
+### System Engineer
+
+[Follow me on LinkedIn](https://www.linkedin.com/in/thnayem/)
 
 System and Network Infrastructure professional with 6+ years of experience supporting corporate IT environments, enterprise networks, and ISP infrastructure. Experienced in network administration, routing and switching, Linux and Windows Server environments, virtualization, monitoring, and day-to-day IT operations.
 
@@ -82,5 +84,5 @@ City University | 2020
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/thnayem](https://www.linkedin.com/in/thnayem)
+- **Follow me on LinkedIn:** [linkedin.com/in/thnayem](https://www.linkedin.com/in/thnayem/)
 - **GitHub:** [github.com/thnayem](https://github.com/thnayem)
