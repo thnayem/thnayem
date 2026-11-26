@@ -29,7 +29,7 @@ I focus on infrastructure reliability, practical troubleshooting, operational st
 | Data Center & Switching | Cisco Nexus, Arista, VLAN, STP/RSTP, MST, EtherChannel/LACP |
 | Routing | BGP, OSPF, VRF, PBR, static routing |
 | Network Services | DHCP, DNS, NAT, VPN, QoS |
-| Server Administration | Linux (Ubuntu, RHEL), Windows Server |
+| Server Administration | Linux (Ubuntu, RHEL 9, CentOS 8), Windows Server |
 | Virtualization | VMware |
 | Monitoring | LibreNMS, Cacti |
 | Security & Operations | Firewall administration fundamentals, access control, network segmentation, troubleshooting |
