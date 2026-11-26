@@ -52,6 +52,14 @@ I focus on infrastructure reliability, practical troubleshooting, operational st
 - Vendor Coordination, Asset Lifecycle and IT Procurement
 - Team Task Coordination and Service Operations
 
+## Hands-on Experience & Portfolio Documentation
+
+My hands-on work in system and network administration began in **March 2020**. Since then, I have been involved in real-world production environments, working with the configuration, administration, maintenance, and troubleshooting of network and IT infrastructure across enterprise and ISP environments.
+
+The repositories and commits published here are a recent effort to organize, document, and showcase that practical experience. **The recent GitHub commit dates reflect when I started documenting and sharing this work publicly, not when I began doing the work.** Much of this experience was gained and applied in production environments before it was represented on GitHub.
+
+I am sharing sanitized configuration references, technical notes, and operational knowledge while continuing to learn, improve, and contribute to the networking and IT infrastructure community.
+
 ## Selected Technical Portfolio
 
 My portfolio contains sanitized, source-derived configuration references and technical documentation from previous infrastructure and ISP engineering work. Sensitive production identifiers, credentials, and operational details are excluded.
