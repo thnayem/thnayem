@@ -85,6 +85,12 @@ My portfolio contains sanitized, source-derived configuration references and tec
     - [Access and POP Switching](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom)
 - [Enterprise IT Operations Portfolio](https://github.com/thnayem/enterprise-it-operations-portfolio) — IP telephony, CCTV/NVR, fiber, monitoring, ERP and database support, plus operational runbooks.
 - [IT Management & Operations](https://github.com/thnayem/enterprise-it-operations-portfolio/tree/main/management) — capacity planning, data centre and disaster recovery, online UPS and power backup, energy consumption, solar PV, cooling and rack infrastructure, vendor/SLA management, asset inventory, IT procurement, toner and consumables control, and team service operations.
+## Portfolio Scope & Ongoing Documentation
+
+The repositories currently published represent a **curated selection** of my technical work and experience, rather than a complete record of every configuration, implementation, or troubleshooting activity I have handled. A broader range of configuration references, troubleshooting scenarios, and operational lessons has not yet been added to GitHub.
+
+I am progressively reviewing and documenting selected material before publication, with appropriate sanitization and attention to technical accuracy, confidentiality, and practical relevance. This ensures that the portfolio remains useful, responsible, and focused on meaningful engineering and operational outcomes.
+
 ## Currently Developing
 
 - FortiGate Firewall Administration
