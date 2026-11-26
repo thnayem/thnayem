@@ -19,6 +19,7 @@ I focus on infrastructure reliability, practical troubleshooting, operational st
 - Working experience with Linux (Ubuntu/RHEL), Windows Server, and VMware environments
 - Experience with network monitoring, IP telephony, CCTV, fiber connectivity, and endpoint support
 - Comfortable with infrastructure documentation, incident troubleshooting, operational continuity, and technical coordination
+- Familiar with operational planning across capacity, asset lifecycle, vendor coordination, procurement evaluation, service continuity, and team task prioritization
 
 ## Core Technical Skills
 
@@ -34,6 +35,8 @@ I focus on infrastructure reliability, practical troubleshooting, operational st
 | Security & Operations | Firewall administration fundamentals, access control, network segmentation, troubleshooting |
 | Communication Systems | Grandstream IP PBX, SIP Trunk |
 | Infrastructure | LAN/WAN, fiber-optic connectivity, CCTV, endpoint support |
+| IT Operations Coordination | Incident prioritization, change coordination, service reporting, runbooks and stakeholder updates |
+| Infrastructure Planning | Capacity review, asset lifecycle, vendor/SLA tracking, procurement evaluation and DR planning |
 
 ## Areas of Focus
 
@@ -44,7 +47,9 @@ I focus on infrastructure reliability, practical troubleshooting, operational st
 - Routing, Switching, and WAN Operations
 - Network Monitoring and Incident Troubleshooting
 - Infrastructure Documentation and Change Support
-- IT Service Continuity and Operational Reliability
+- IT Service Continuity, Capacity and Disaster Recovery Planning
+- Vendor Coordination, Asset Lifecycle and IT Procurement
+- Team Task Coordination and Service Operations
 
 ## Selected Technical Portfolio
 
@@ -69,7 +74,8 @@ My portfolio contains sanitized, source-derived configuration references and tec
     - [DCS-7050S-52](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/arista/dcs-7050s-52)
   - **BDCOM**
     - [Access and POP Switching](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom)
-- [Enterprise IT Operations Portfolio](https://github.com/thnayem/enterprise-it-operations-portfolio) — Fanvil GRP2601 and Grandstream UCM6301 IP telephony, CCTV/NVR and storage planning, fiber connectivity, LibreNMS/Cacti monitoring, ERP support, SQL/DBMS, and biometric attendance systems.
+- [Enterprise IT Operations Portfolio](https://github.com/thnayem/enterprise-it-operations-portfolio) — IP telephony, CCTV/NVR, fiber, monitoring, ERP and database support, plus operational runbooks.
+- [IT Management & Operations](https://github.com/thnayem/enterprise-it-operations-portfolio/tree/main/management) — capacity planning, data centre and disaster recovery, vendor/SLA management, asset inventory, IT procurement, toner and consumables control, and team service operations.
 ## Currently Developing
 
 - FortiGate Firewall Administration
