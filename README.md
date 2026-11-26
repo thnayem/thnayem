@@ -37,6 +37,7 @@ I focus on infrastructure reliability, practical troubleshooting, operational st
 | Infrastructure | LAN/WAN, fiber-optic connectivity, CCTV, endpoint support |
 | IT Operations Coordination | Incident prioritization, change coordination, service reporting, runbooks and stakeholder updates |
 | Infrastructure Planning | Capacity review, asset lifecycle, vendor/SLA tracking, procurement evaluation and DR planning |
+| Facility & Power Infrastructure | Online UPS, power backup, energy consumption, generator, solar PV, cooling and rack planning |
 
 ## Areas of Focus
 
@@ -75,7 +76,7 @@ My portfolio contains sanitized, source-derived configuration references and tec
   - **BDCOM**
     - [Access and POP Switching](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom)
 - [Enterprise IT Operations Portfolio](https://github.com/thnayem/enterprise-it-operations-portfolio) — IP telephony, CCTV/NVR, fiber, monitoring, ERP and database support, plus operational runbooks.
-- [IT Management & Operations](https://github.com/thnayem/enterprise-it-operations-portfolio/tree/main/management) — capacity planning, data centre and disaster recovery, vendor/SLA management, asset inventory, IT procurement, toner and consumables control, and team service operations.
+- [IT Management & Operations](https://github.com/thnayem/enterprise-it-operations-portfolio/tree/main/management) — capacity planning, data centre and disaster recovery, online UPS and power backup, energy consumption, solar PV, cooling and rack infrastructure, vendor/SLA management, asset inventory, IT procurement, toner and consumables control, and team service operations.
 ## Currently Developing
 
 - FortiGate Firewall Administration
