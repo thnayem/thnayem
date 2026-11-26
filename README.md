@@ -2,9 +2,9 @@
 
 ### Network Administrator | Enterprise Networking | IT Infrastructure Operations
 
-Network and IT Infrastructure professional with 6+ years of experience in corporate IT environments and ISP operations. Experienced in managing enterprise networks, routing and switching, server infrastructure, virtualization, and IT operations.
+Network and IT Infrastructure professional with 6+ years of experience supporting corporate IT and large-scale network environments. My work includes enterprise routing and switching, network operations, server infrastructure, virtualization, and technical support.
 
-Currently focused on building reliable, secure, and scalable IT infrastructure through practical solutions and continuous learning.
+I focus on practical engineering, stable infrastructure, clear documentation, and resolving network and IT operations challenges.
 
 ---
 
@@ -12,10 +12,10 @@ Currently focused on building reliable, secure, and scalable IT infrastructure t
 
 - 6+ years of experience in Network Administration and IT Infrastructure Operations
 - Experience supporting enterprise environments with 250+ users
-- Hands-on experience with enterprise routing, switching, and network security
-- Experience with multi-vendor network infrastructure and ISP connectivity
+- Hands-on work with routing, switching, network security, and WAN connectivity
+- Experience across multi-vendor network infrastructure
 - Working knowledge of Linux, Windows Server, virtualization, and network monitoring
-- Interested in infrastructure automation, network security, and enterprise architecture
+- Interested in infrastructure security, automation, and enterprise architecture
 
 ## Technical Skills
 
@@ -36,7 +36,7 @@ Currently focused on building reliable, secure, and scalable IT infrastructure t
 - Enterprise Network Administration
 - Network Design and Troubleshooting
 - Routing and Switching Operations
-- ISP and WAN Connectivity Management
+- WAN and Site Connectivity Management
 - Server and Infrastructure Administration
 - Network Monitoring and Performance Optimization
 - IT Operations and Technical Support
@@ -68,11 +68,8 @@ City University | 2020
 
 *Note: Listed qualifications include professional training and course certificates.*
 
-## Connect With Me
+## Portfolio and Contact
 
+- **Network Engineering Portfolio:** [network-engineering-portfolio](https://github.com/thnayem/network-engineering-portfolio)
 - **LinkedIn:** [linkedin.com/in/thnayem](https://www.linkedin.com/in/thnayem)
 - **GitHub:** [github.com/thnayem](https://github.com/thnayem)
-
----
-
-*Building reliable infrastructure, solving real-world technical challenges, and learning continuously.*
