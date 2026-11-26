@@ -64,27 +64,45 @@ I am sharing sanitized configuration references, technical notes, and operationa
 
 My portfolio contains sanitized, source-derived configuration references and technical documentation from previous infrastructure and ISP engineering work. Sensitive production identifiers, credentials, and operational details are excluded.
 
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio) — Windows Server 2022/2025, Ubuntu Server 24.04 LTS, VMware ESXi, virtual machine deployment, storage and LVM, RAM and performance monitoring, network configuration, backup and recovery, and iDRAC/iLO/IPMI hardware management.
-- [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
-  - **Juniper**
-    - [MX204](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx204)
-    - [MX240](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx240)
-  - **Cisco**
-    - [ASR 920](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/asr920)
-    - [7606-S](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/7606s)
-    - [Nexus Core Switch](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-core-switch)
-    - [Nexus 3000](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-3k-cybernet-core)
-  - **MikroTik**
-    - [RouterOS 6/7 references](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik)
-    - [CRS309](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik/crs309)
-  - **Huawei**
-    - [MA5800-X7](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/huawei)
-  - **Arista**
-    - [DCS-7050S-52](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/arista/dcs-7050s-52)
-  - **BDCOM**
-    - [Access and POP Switching](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom)
-- [Enterprise IT Operations Portfolio](https://github.com/thnayem/enterprise-it-operations-portfolio) — IP telephony, CCTV/NVR, fiber, monitoring, ERP and database support, plus operational runbooks.
-- [IT Management & Operations](https://github.com/thnayem/enterprise-it-operations-portfolio/tree/main/management) — capacity planning, data centre and disaster recovery, online UPS and power backup, energy consumption, solar PV, cooling and rack infrastructure, vendor/SLA management, asset inventory, IT procurement, toner and consumables control, and team service operations.
+<table>
+<tr><td>
+
+<h3>System &amp; Server Virtualization Portfolio</h3>
+<p>Windows Server 2022/2025 · Ubuntu Server 24.04 LTS · VMware ESXi · VM Deployment · Storage &amp; LVM · Backup &amp; Recovery · Hardware Management</p>
+<p><a href="https://github.com/thnayem/system-server-virtualization-portfolio">View Repository ↗</a></p>
+
+<hr>
+
+<h3>Network Engineering Portfolio</h3>
+<p>Multi-vendor routing, switching and ISP infrastructure.</p>
+
+<p><strong>Juniper</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx204">MX204</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx240">MX240</a></p>
+
+<p><strong>Cisco</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/asr920">ASR 920</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/7606s">7606-S</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-core-switch">Nexus Core</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-3k-cybernet-core">Nexus 3000</a></p>
+
+<p><strong>MikroTik</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik">RouterOS 6/7</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik/crs309">CRS309</a></p>
+
+<p><strong>Huawei</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/huawei">MA5800-X7</a></p>
+
+<p><strong>Arista</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/arista/dcs-7050s-52">DCS-7050S-52</a></p>
+
+<p><strong>BDCOM</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom">Access and POP Switching</a></p>
+
+<hr>
+
+<h3>Enterprise IT Operations Portfolio</h3>
+<p>IP Telephony · CCTV/NVR · Fiber Infrastructure · Monitoring · ERP · Database Support · Operational Runbooks</p>
+<p><a href="https://github.com/thnayem/enterprise-it-operations-portfolio">View Repository ↗</a></p>
+
+<hr>
+
+<h3>IT Management &amp; Operations</h3>
+<p>Capacity Planning · Data Centre · Disaster Recovery · UPS · Solar PV · Cooling · Vendor Management · IT Procurement</p>
+<p><a href="https://github.com/thnayem/enterprise-it-operations-portfolio/tree/main/management">View Documentation ↗</a></p>
+
+</td></tr>
+</table>
+
 ## Portfolio Scope & Ongoing Documentation
 
 The repositories currently published represent a **curated selection** of my technical work and experience, rather than a complete record of every configuration, implementation, or troubleshooting activity I have handled. A broader range of configuration references, troubleshooting scenarios, and operational lessons has not yet been added to GitHub.
