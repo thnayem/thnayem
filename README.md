@@ -52,15 +52,24 @@ My portfolio contains sanitized, source-derived configuration references and tec
 
 - [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization) — Windows Server 2022/2025, Ubuntu Server 24.04 LTS, VMware ESXi, virtual machine deployment, storage and LVM, RAM and performance monitoring, network configuration, backup and recovery, and iDRAC/iLO/IPMI hardware management.
 - [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
+  - **Juniper**
+    - [MX204](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx204)
+    - [MX240](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx240)
+  - **Cisco**
+    - [ASR 920](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/asr920)
+    - [7606-S](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/7606s)
+    - [Nexus Core Switch](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-core-switch)
+    - [Nexus 3000](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-3k-cybernet-core)
+  - **MikroTik**
+    - [RouterOS 6/7 references](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik)
+    - [CRS309](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik/crs309)
+  - **Huawei**
+    - [MA5800-X7](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/huawei)
+  - **Arista**
+    - [DCS-7050S-52](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/arista/dcs-7050s-52)
+  - **BDCOM**
+    - [Access and POP Switching](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom)
 - [Enterprise IT Operations Portfolio](https://github.com/thnayem/enterprise-it-operations-portfolio) — Fanvil GRP2601 and Grandstream UCM6301 IP telephony, CCTV/NVR and storage planning, fiber connectivity, LibreNMS/Cacti monitoring, ERP support, SQL/DBMS, and biometric attendance systems.
-- [Cisco 7606-S](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/7606s)
-- [Juniper MX204](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx204)
-- [Juniper MX240](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx240)
-- [MikroTik CRS309](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik/crs309)
-- [BDCOM Switching](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom)
-- [Cisco Nexus Core Switch](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-core-switch)
-- [Cisco Nexus 3000](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-3k-cybernet-core)
-
 ## Currently Developing
 
 - FortiGate Firewall Administration
