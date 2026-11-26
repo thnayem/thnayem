@@ -1,75 +1,86 @@
 # Md. Tanvir Hossain
 
-### Network Administrator | Enterprise Networking | IT Infrastructure Operations
+### System Engineer | Network & IT Infrastructure | Enterprise Operations
 
-Network and IT Infrastructure professional with 6+ years of experience supporting corporate IT and large-scale network environments. My work includes enterprise routing and switching, network operations, server infrastructure, virtualization, and technical support.
+System and Network Infrastructure professional with 6+ years of experience supporting corporate IT environments, enterprise networks, and ISP infrastructure. Experienced in network administration, routing and switching, Linux and Windows Server environments, virtualization, monitoring, and day-to-day IT operations.
 
-I focus on practical engineering, stable infrastructure, clear documentation, and resolving network and IT operations challenges.
+I focus on reliable infrastructure, practical troubleshooting, operational stability, security-aware implementation, and clear technical documentation.
 
 ---
 
-## Professional Summary
+## Professional Profile
 
-- 6+ years of experience in Network Administration and IT Infrastructure Operations
-- Experience supporting enterprise environments with 250+ users
-- Hands-on work with routing, switching, network security, and WAN connectivity
-- Experience across multi-vendor network infrastructure
-- Working knowledge of Linux, Windows Server, virtualization, and network monitoring
-- Interested in infrastructure security, automation, and enterprise architecture
+- 6+ years of experience across Network Administration and IT Infrastructure Operations
+- Supported corporate IT environments serving 250+ users
+- Hands-on experience with multi-vendor routing, switching, WAN connectivity, and network services
+- Working experience with Linux (Ubuntu/RHEL), Windows Server, and VMware environments
+- Experience with network monitoring, IP telephony, CCTV, and fiber connectivity
+- Comfortable documenting infrastructure, maintaining operational continuity, and coordinating technical support
 
-## Technical Skills
+## Core Technical Skills
 
-| Category | Technologies |
+| Area | Technologies / Skills |
 |---|---|
-| Networking | Cisco, MikroTik, Juniper, Huawei |
-| Enterprise Switching | Cisco Nexus, Arista |
-| Routing | BGP, OSPF, VLAN, VRF, PBR |
+| Enterprise Networking | Cisco, MikroTik, Juniper, Huawei |
+| Data Center & Switching | Cisco Nexus, Arista, VLAN, STP/RSTP, MST, EtherChannel/LACP |
+| Routing | BGP, OSPF, VRF, PBR, static routing |
 | Network Services | DHCP, DNS, NAT, VPN, QoS |
-| Operating Systems | Linux (Ubuntu, RHEL), Windows Server |
+| Server Administration | Linux (Ubuntu, RHEL), Windows Server |
 | Virtualization | VMware |
 | Monitoring | LibreNMS, Cacti |
-| IP Telephony | Grandstream IP PBX, SIP Trunk |
-| Infrastructure | CCTV, LAN/WAN, Fiber Optic Connectivity |
+| Security & Operations | Firewall administration fundamentals, access control, network segmentation, troubleshooting |
+| Communication Systems | Grandstream IP PBX, SIP Trunk |
+| Infrastructure | LAN/WAN, fiber-optic connectivity, CCTV, endpoint support |
 
-## Areas of Expertise
+## Areas of Focus
 
-- Enterprise Network Administration
-- Network Design and Troubleshooting
-- Routing and Switching Operations
-- WAN and Site Connectivity Management
-- Server and Infrastructure Administration
-- Network Monitoring and Performance Optimization
-- IT Operations and Technical Support
-- Infrastructure Security and Documentation
+- System and Network Administration
+- Enterprise IT Infrastructure Operations
+- Server and Virtualization Support
+- Routing, Switching, and WAN Operations
+- Network Monitoring and Incident Troubleshooting
+- Infrastructure Documentation and Change Support
+- IT Service Continuity and Operational Reliability
 
-## Currently Learning
+## Selected Technical Portfolio
+
+My portfolio contains sanitized, source-derived configuration references and technical documentation from previous infrastructure and ISP engineering work. Sensitive production identifiers, credentials, and operational details are excluded.
+
+- [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
+- [Cisco 7606-S](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/7606s)
+- [Juniper MX204](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx204)
+- [Juniper MX240](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx240)
+- [MikroTik CRS309](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik/crs309)
+- [BDCOM Switching](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom)
+- [Cisco Nexus Core Switch](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-core-switch)
+- [Cisco Nexus 3000](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-3k-cybernet-core)
+
+## Currently Developing
 
 - FortiGate Firewall Administration
 - ITIL and IT Service Management
 - IT Governance, Risk and Compliance (GRC)
 - Configuration Management Database (CMDB)
 - Veeam Backup and Recovery
-- Data Center Networking
-- VXLAN, EVPN and ACI
+- Data Center Networking: VXLAN, EVPN, and ACI
 
 ## Education
 
-**Bachelor of Science in Computer Science & Engineering (BSc in CSE)**  
+**BSc in Computer Science & Engineering**  
 City University | 2020
 
 ## Training & Professional Development
 
-- CCNA, CCNP Routing & Switching
-- MTCNA, MTCRE
-- JNCIA-Junos
-- Linux Administration (Ubuntu & RHEL)
-- CompTIA A+ Training
+- CCNA / CCNP Routing & Switching training
+- MTCNA / MTCRE training
+- JNCIA-Junos training
+- Linux Administration: Ubuntu and RHEL
+- CompTIA A+ training
 - ISO/IEC 27001 Information Security Associate™
 
-*Note: Listed qualifications include professional training and course certificates.*
+*Training and course credentials are listed as professional development; they should not be interpreted as active vendor-issued certifications unless explicitly stated.*
 
-## Portfolio and Contact
+## Connect
 
-- **Network Engineering Portfolio:** [network-engineering-portfolio](https://github.com/thnayem/network-engineering-portfolio)
 - **LinkedIn:** [linkedin.com/in/thnayem](https://www.linkedin.com/in/thnayem)
 - **GitHub:** [github.com/thnayem](https://github.com/thnayem)
