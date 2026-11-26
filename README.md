@@ -52,6 +52,7 @@ My portfolio contains sanitized, source-derived configuration references and tec
 
 - [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization) — Windows Server 2022/2025, Ubuntu Server 24.04 LTS, VMware ESXi, virtual machine deployment, storage and LVM, RAM and performance monitoring, network configuration, backup and recovery, and iDRAC/iLO/IPMI hardware management.
 - [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
+- [Enterprise IT Operations Portfolio](https://github.com/thnayem/enterprise-it-operations-portfolio) — Fanvil GRP2601 and Grandstream UCM6301 IP telephony, CCTV/NVR and storage planning, fiber connectivity, LibreNMS/Cacti monitoring, ERP support, SQL/DBMS, and biometric attendance systems.
 - [Cisco 7606-S](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/7606s)
 - [Juniper MX204](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx204)
 - [Juniper MX240](https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx240)
