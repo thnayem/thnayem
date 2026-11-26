@@ -1,23 +1,24 @@
 # Md. Tanvir Hossain
 
-### System & Network Administrator
+### System & Network Administrator | Multi-Vendor IT Infrastructure & Operations
 
 [Follow me on LinkedIn](https://www.linkedin.com/in/thnayem/)
 
-System & Network Administrator with 6+ years of experience supporting corporate IT environments, enterprise networks, and ISP infrastructure. Experienced in network administration, routing and switching, Linux and Windows Server environments, virtualization, monitoring, and day-to-day IT operations.
+System & Network Administrator with 6+ years of experience in multi-vendor IT infrastructure and operations across corporate IT environments, enterprise networks, and ISP infrastructure. Experienced in administering and supporting network, server, virtualization, connectivity, monitoring, and end-user services across diverse technology platforms.
 
-I focus on reliable infrastructure, practical troubleshooting, operational stability, security-aware implementation, and clear technical documentation.
+I focus on infrastructure reliability, practical troubleshooting, operational stability, security-aware implementation, and clear technical documentation.
 
 ---
 
 ## Professional Profile
 
-- 6+ years of experience across Network Administration and IT Infrastructure Operations
+- 6+ years of experience across System and Network Administration, IT Infrastructure, and IT Operations
 - Supported corporate IT environments serving 250+ users
-- Hands-on experience with multi-vendor routing, switching, WAN connectivity, and network services
+- Hands-on experience with multi-vendor infrastructure, including Cisco, MikroTik, Juniper, Huawei, and Arista technologies
+- Experience in enterprise routing, switching, WAN connectivity, and network services
 - Working experience with Linux (Ubuntu/RHEL), Windows Server, and VMware environments
-- Experience with network monitoring, IP telephony, CCTV, and fiber connectivity
-- Comfortable documenting infrastructure, maintaining operational continuity, and coordinating technical support
+- Experience with network monitoring, IP telephony, CCTV, fiber connectivity, and endpoint support
+- Comfortable with infrastructure documentation, incident troubleshooting, operational continuity, and technical coordination
 
 ## Core Technical Skills
 
@@ -37,7 +38,8 @@ I focus on reliable infrastructure, practical troubleshooting, operational stabi
 ## Areas of Focus
 
 - System and Network Administration
-- Enterprise IT Infrastructure Operations
+- Multi-Vendor IT Infrastructure Administration
+- Enterprise IT Operations and Infrastructure Support
 - Server and Virtualization Support
 - Routing, Switching, and WAN Operations
 - Network Monitoring and Incident Troubleshooting
