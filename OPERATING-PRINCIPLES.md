@@ -41,3 +41,7 @@ I do not publish credentials, customer data, private topology, real internal add
 ## A principle I try to follow
 
 Reliable IT depends on more than technology. It takes sound engineering, clear ownership, calm communication and people who are willing to learn from one another. I want my work and documentation to reflect that.
+
+---
+
+**Authorship and AI assistance:** The technical work, decisions, troubleshooting, lab activity and production experience described in this document are my own. I use AI as a practical writing and productivity aid for editing wording, organizing structure and preparing formal templates or disclaimers. AI does not replace or generate my technical skills, hands-on work or professional judgement. I review and take responsibility for what I publish.
