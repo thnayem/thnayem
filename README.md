@@ -4,6 +4,12 @@
 
 [LinkedIn](https://www.linkedin.com/in/thnayem/) · [GitHub](https://github.com/thnayem)
 
+## Professional Resume
+
+[View / Download CV (PDF)](CV/Md_Tanvir_Hossain_CV.pdf)
+
+A concise overview of my experience in enterprise IT infrastructure, network and systems administration, virtualization, security and IT operations. The CV is aligned with my professional experience and the technical work documented across these repositories.
+
 I have worked in network and system administration since March 2020, supporting enterprise and ISP environments. My work includes live network and server operations, remote troubleshooting, maintenance, upgrades and day-to-day IT services. This profile brings together selected notes, lab work and sanitized examples from that experience.
 
 ## My repositories
@@ -90,6 +96,7 @@ The dates on GitHub show when I started putting selected notes online. They do n
 These repositories represent only a small part of what I have learned and worked on since 2020. There is much more experience and technical knowledge that I have not yet documented.
 
 I believe in learning through hands-on work, taking responsibility for my decisions, acknowledging mistakes and continuously improving. I keep people informed, work to resolve issues and document useful findings. I am sharing these materials to document my journey, exchange knowledge and contribute to the IT infrastructure community.
+
 ## Authorship
 
 The technical work, decisions, troubleshooting and experience described here are mine. I sometimes use AI to edit wording or organize documentation, but not as a substitute for hands-on work or technical judgement. I review what I publish and take responsibility for it.
