@@ -6,6 +6,15 @@
 
 I work across network and systems administration, enterprise infrastructure, and IT operations. Since starting hands-on work in March 2020, I have had the opportunity to support production environments, troubleshoot live services, maintain infrastructure, and learn from the people and situations around me.
 
+## A note about my real-world experience and this portfolio
+
+The hands-on production work I have been involved in is much broader than what is currently documented here. This GitHub profile is only a glimpse of that experience, not a complete record of every system, project, incident or responsibility I have handled. There is still a lot I have not added.
+
+I do not publish original employer or customer production configurations, raw device backups, credentials, private network details or confidential documents. The material shared here is selected learning and study notes, independently prepared examples, lab exercises, troubleshooting write-ups, implementation practice and lessons drawn from practical work. Where a page describes production involvement, it is a high-level account with sensitive details removed; it should not be read as proof that a sample configuration was deployed unchanged in a live environment.
+
+I am a human being and I can make mistakes. What matters to me is being honest about them, listening to feedback, taking responsibility for my decisions and their impact, correcting what needs to be corrected, communicating clearly and learning so the same mistake is less likely to happen again. I do not claim to know everything. I am willing to investigate, ask for help when needed and own the work entrusted to me.
+
+
 My experience includes enterprise and ISP environments, multi-vendor networking, Windows and Linux servers, virtualization, monitoring, connectivity, and day-to-day IT operations. I enjoy understanding why something fails, working through the evidence, and documenting what I learn so the next person has a clearer starting point.
 
 I am interested in roles where I can contribute technically while taking greater responsibility for infrastructure planning, service delivery, team coordination, and operational improvement.
