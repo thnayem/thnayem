@@ -102,3 +102,7 @@ The technical work documented here is my own. The decisions, hands-on work, trou
 I have used AI assistance in a limited editorial role for some template-style wording, sentence structure and phrasing, and to help organize formal or licensing-related disclaimers and documentation layouts. That assistance does not make the underlying technical work, decisions, lab activity or production experience AI-generated. I remain responsible for the accuracy of what I publish, and I try to distinguish clearly between work I handled in production, sanitized references, and examples I built or tested in a lab.
 
 Some pages use familiar ITSM, ITIL or other framework terminology where it helps explain a process or meet a documentation need. Those references are organizational language, not a claim that every framework was formally adopted or followed in a particular workplace. I prefer practical evidence and honest context over textbook wording or claims that sound impressive but cannot be backed up.
+
+---
+
+**Authorship and AI assistance:** The technical work, decisions, troubleshooting, lab activity and production experience described in this document are my own. I use AI as a practical writing and productivity aid for editing wording, organizing structure and preparing formal templates or disclaimers. AI does not replace or generate my technical skills, hands-on work or professional judgement. I review and take responsibility for what I publish.
