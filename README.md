@@ -6,7 +6,7 @@
 
 ## Professional Resume
 
-[View / Download CV (PDF)](Md_Tanvir_Hossain_CV.pdf)
+[View / Download CV (PDF)](https://github.com/thnayem/thnayem/raw/refs/heads/main/Md_Tanvir_Hossain_CV.pdf)
 
 A concise overview of my experience in enterprise IT infrastructure, network and systems administration, virtualization, security and IT operations. The CV is aligned with my professional experience and the technical work documented across these repositories.
 
