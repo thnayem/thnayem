@@ -124,6 +124,15 @@ The repositories currently published represent a **curated selection** of my tec
 
 I am progressively reviewing and documenting selected material before publication, with appropriate sanitization and attention to technical accuracy, confidentiality, and practical relevance. This ensures that the portfolio remains useful, responsible, and focused on meaningful engineering and operational outcomes.
 
+## Operations, Leadership & Case Studies
+
+Alongside technical references, I document the operational practices behind reliable infrastructure delivery: incident handling, controlled implementation, team coordination, time prioritization, stakeholder communication, vendor follow-up, and practical documentation.
+
+- [Infrastructure Operations & Leadership Principles](./OPERATING-PRINCIPLES.md)
+- [Network troubleshooting scenarios and demos](https://github.com/thnayem/network-engineering-portfolio/blob/main/case-studies/troubleshooting-scenarios.md)
+- [Server operations case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies)
+- [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md)
+
 ## Currently Developing
 
 - FortiGate Firewall Administration
