@@ -1,164 +1,110 @@
 # Md. Tanvir Hossain
 
-### System & Network Administrator | Multi-Vendor IT Infrastructure & Operations
+### IT Infrastructure | Network & Systems Administration | Enterprise IT Operations
 
-[Follow me on LinkedIn](https://www.linkedin.com/in/thnayem/)
+[LinkedIn](https://www.linkedin.com/in/thnayem/) · [GitHub](https://github.com/thnayem)
 
-System & Network Administrator with 6+ years of experience in multi-vendor IT infrastructure and operations across corporate IT environments, enterprise networks, and ISP infrastructure. Experienced in administering and supporting network, server, virtualization, connectivity, monitoring, and end-user services across diverse technology platforms.
+I work across network and systems administration, enterprise infrastructure, and IT operations. Since starting hands-on work in March 2020, I have had the opportunity to support production environments, troubleshoot live services, maintain infrastructure, and learn from the people and situations around me.
 
-I focus on infrastructure reliability, practical troubleshooting, operational stability, security-aware implementation, and clear technical documentation.
+My experience includes enterprise and ISP environments, multi-vendor networking, Windows and Linux servers, virtualization, monitoring, connectivity, and day-to-day IT operations. I enjoy understanding why something fails, working through the evidence, and documenting what I learn so the next person has a clearer starting point.
+
+I am interested in roles where I can contribute technically while taking greater responsibility for infrastructure planning, service delivery, team coordination, and operational improvement.
 
 ---
 
-## Professional Profile
+## A quick introduction
 
-- 6+ years of experience across System and Network Administration, IT Infrastructure, and IT Operations
+- 6+ years of experience across system and network administration, infrastructure support, and IT operations
 - Supported corporate IT environments serving 250+ users
-- Hands-on experience with multi-vendor infrastructure, including Cisco, MikroTik, Juniper, Huawei, and Arista technologies
-- Experience in enterprise routing, switching, WAN connectivity, and network services
-- Working experience with Linux (Ubuntu/RHEL), Windows Server, and VMware environments
-- Experience with network monitoring, IP telephony, CCTV, fiber connectivity, and endpoint support
-- Comfortable with infrastructure documentation, incident troubleshooting, operational continuity, and technical coordination
-- Familiar with operational planning across capacity, asset lifecycle, vendor coordination, procurement evaluation, service continuity, and team task prioritization
+- Worked with Cisco, MikroTik, Juniper, Huawei, Arista and other multi-vendor platforms
+- Hands-on involvement in production server, router and switch configuration, maintenance, upgrades, remote troubleshooting and verification
+- Experience across enterprise and ISP connectivity, WAN, routing, switching, VPNs, tunnels, DC/DR connectivity and monitoring
+- Working knowledge of Windows Server, Ubuntu, RHEL 9, CentOS 8 and VMware environments
+- Involved in incident follow-up, change coordination, vendor communication, documentation and service continuity
 
-## Core Technical Skills
+## What I work with
 
-| Area | Technologies / Skills |
+| Area | Technologies and topics |
 |---|---|
-| Enterprise Networking | Cisco, MikroTik, Juniper, Huawei |
-| Data Center & Switching | Cisco Nexus, Arista, VLAN, STP/RSTP, MST, EtherChannel/LACP |
-| Routing | BGP, OSPF, VRF, PBR, static routing |
-| Network Services | DHCP, DNS, NAT, VPN, QoS |
-| Server Administration | Linux (Ubuntu, RHEL 9, CentOS 8), Windows Server |
-| Virtualization | VMware |
-| Monitoring | LibreNMS, Cacti |
-| Security & Operations | Firewall administration fundamentals, access control, network segmentation, troubleshooting |
-| Communication Systems | Grandstream IP PBX, SIP Trunk |
-| Infrastructure | LAN/WAN, fiber-optic connectivity, CCTV, endpoint support |
-| IT Operations Coordination | Incident prioritization, change coordination, service reporting, runbooks and stakeholder updates |
-| Infrastructure Planning | Capacity review, asset lifecycle, vendor/SLA tracking, procurement evaluation and DR planning |
-| Facility & Power Infrastructure | Online UPS, power backup, energy consumption, generator, solar PV, cooling and rack planning |
+| Enterprise networking | Cisco, MikroTik, Juniper, Huawei, Arista |
+| Routing and switching | BGP, OSPF, VLAN, STP/RSTP, MSTP, LACP, VRF, PBR |
+| WAN and connectivity | NTTN, GRE, IPsec, OSPF over GRE, multi-site and DC/DR connectivity |
+| Network services | DHCP, DNS, NAT, VPN, QoS, ACL |
+| Systems | Windows Server, Ubuntu, RHEL 9, CentOS 8 |
+| Virtualization | VMware ESXi and virtual machine operations |
+| Monitoring | LibreNMS, Cacti and infrastructure monitoring concepts |
+| Enterprise IT | IP telephony, CCTV/NVR, fiber connectivity, ERP support, endpoint and hardware support |
+| Operations | Incident handling, change planning, maintenance, backup/rollback, verification and runbooks |
+| Coordination | Task prioritization, team coordination, vendor follow-up, SLA tracking and stakeholder updates |
 
-## Areas of Focus
+## Production experience and public documentation
 
-- System and Network Administration
-- Multi-Vendor IT Infrastructure Administration
-- Enterprise IT Operations and Infrastructure Support
-- Server and Virtualization Support
-- Routing, Switching, and WAN Operations
-- Network Monitoring and Incident Troubleshooting
-- Infrastructure Documentation and Change Support
-- IT Service Continuity, Capacity and Disaster Recovery Planning
-- Vendor Coordination, Asset Lifecycle and IT Procurement
-- Team Task Coordination and Service Operations
+My hands-on work began before I started publishing technical notes on GitHub. The recent commit dates show when I began organizing and sharing selected material publicly; they do not represent the start of my professional experience.
 
-## Hands-on Experience & Portfolio Documentation
+In production environments, my work has involved remote administration, configuration, upgrades, maintenance and troubleshooting of servers, routers and switches. I have also been involved in enterprise and ISP network operations, multi-site connectivity, provider coordination, service checks, DC/DR connectivity and post-change verification.
 
-My hands-on work in system and network administration began in **March 2020**. Since then, I have been involved in real-world production environments, working with the configuration, administration, maintenance, and troubleshooting of network and IT infrastructure across enterprise and ISP environments.
+I do not publish employer backups, customer information, credentials, private addressing or confidential network diagrams. The public repositories contain sanitized references and selected examples only.
 
-The repositories and commits published here are a recent effort to organize, document, and showcase that practical experience. **The recent GitHub commit dates reflect when I started documenting and sharing this work publicly, not when I began doing the work.** Much of this experience was gained and applied in production environments before it was represented on GitHub.
+## How I approach the work
 
-I am sharing sanitized configuration references, technical notes, and operational knowledge while continuing to learn, improve, and contribute to the networking and IT infrastructure community.
+I do not believe infrastructure work is just about knowing commands or configuring a device.
 
-## Production Infrastructure & Connectivity Operations
+I try to understand the impact before making a change, collect evidence before deciding on a cause, and prepare a recovery path before touching a critical service. When an incident happens, communication and ownership matter as much as technical troubleshooting. After the service is restored, the timeline, lessons and follow-up actions should not be lost.
 
-My practical experience includes hands-on work in live production infrastructure across enterprise and ISP environments, including:
+I am still learning. Some topics take several attempts before they make sense. I use labs to test ideas, read vendor documentation, compare approaches, troubleshoot what does not work, and write down the useful parts. I would rather be clear about what I have tested and what I am still learning than claim experience I cannot explain.
 
-- Remote administration, configuration, upgrades, maintenance, and troubleshooting of production servers, routers, and switches.
-- Enterprise and ISP routing and switching operations, including BGP, OSPF, VLANs, and multi-vendor network environments.
-- Site-to-site and multi-site connectivity over NTTN links, including service coordination, fault follow-up, and SLA monitoring with connectivity providers.
-- OSPF routing over GRE tunnels and operational support for VPN and tunnel-based connectivity.
-- Core and access fiber infrastructure, including maintenance coordination for owned dark-fiber/core cable routes.
-- Data Centre and Disaster Recovery connectivity operations, including port and bandwidth coordination, cross-connects, BGP/OSPF routing, VPNs, and tunnels.
-- DC/DR infrastructure maintenance, connectivity checks, incident coordination, and service-continuity support.
-- Controlled operational changes, fault isolation, remote troubleshooting, post-change verification, and coordination with vendors and internal stakeholders.
+I also believe good IT operations depend on people. Sharing knowledge, respecting colleagues, giving clear handovers and helping someone solve a problem are part of the job.
 
-These points describe areas of practical operational involvement. Public repositories contain sanitized documentation and selected technical references; confidential production configurations and identifiers are not published.
+## Explore my portfolio
 
-## Selected Technical Portfolio
+| Portfolio | Focus |
+|---|---|
+| [Network Engineering](https://github.com/thnayem/network-engineering-portfolio) | Multi-vendor routing, switching, ISP/WAN, tunnels, VPN, connectivity operations and troubleshooting |
+| [System & Server Virtualization](https://github.com/thnayem/system-server-virtualization-portfolio) | Windows Server, Linux, RHEL, CentOS, VMware, storage, backup and server operations |
+| [Enterprise IT Operations](https://github.com/thnayem/enterprise-it-operations-portfolio) | Monitoring, telephony, CCTV, fiber, ERP support, IT operations and management practices |
 
-My portfolio contains sanitized, source-derived configuration references and technical documentation from previous infrastructure and ISP engineering work. Sensitive production identifiers, credentials, and operational details are excluded.
+### A useful five-minute route
 
-<table>
-<tr><td>
+1. Start with this profile to understand my background and how I separate experience from examples.
+2. Open the [Network Engineering case studies](https://github.com/thnayem/network-engineering-portfolio/tree/main/case-studies) for connectivity, OSPF over GRE and operational troubleshooting.
+3. Review the [System Administration case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies) for server and virtualization troubleshooting.
+4. Read the [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md) for incident handling, team coordination, time management, documentation and implementation planning.
 
-<h3>System &amp; Server Virtualization Portfolio</h3>
-<p>Windows Server 2022/2025 · Ubuntu Server 24.04 LTS · VMware ESXi · VM Deployment · Storage &amp; LVM · Backup &amp; Recovery · Hardware Management</p>
-<p><a href="https://github.com/thnayem/system-server-virtualization-portfolio">View Repository ↗</a></p>
+## Operations and leadership
 
-<hr>
+Alongside technical work, I am building my understanding of the practices that keep IT services dependable: incident ownership, clear escalation, task prioritization, change control, vendor follow-up, service reporting, knowledge sharing and practical documentation.
 
-<h3>Network Engineering Portfolio</h3>
-<p>Multi-vendor routing, switching and ISP infrastructure.</p>
-
-<p><strong>Juniper</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx204">MX204</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/juniper/mx240">MX240</a></p>
-
-<p><strong>Cisco</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/asr920">ASR 920</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/7606s">7606-S</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-core-switch">Nexus Core</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/cisco/nexus-3k-cybernet-core">Nexus 3000</a></p>
-
-<p><strong>MikroTik</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik">RouterOS 6/7</a> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/mikrotik/crs309">CRS309</a></p>
-
-<p><strong>Huawei</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/huawei">MA5800-X7</a></p>
-
-<p><strong>Arista</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/arista/dcs-7050s-52">DCS-7050S-52</a></p>
-
-<p><strong>BDCOM</strong> · <a href="https://github.com/thnayem/network-engineering-portfolio/tree/main/platforms/bdcom">Access and POP Switching</a></p>
-
-<hr>
-
-<h3>Enterprise IT Operations Portfolio</h3>
-<p>IP Telephony · CCTV/NVR · Fiber Infrastructure · Monitoring · ERP · Database Support · Operational Runbooks</p>
-<p><a href="https://github.com/thnayem/enterprise-it-operations-portfolio">View Repository ↗</a></p>
-
-<hr>
-
-<h3>IT Management &amp; Operations</h3>
-<p>Capacity Planning · Data Centre · Disaster Recovery · UPS · Solar PV · Cooling · Vendor Management · IT Procurement</p>
-<p><a href="https://github.com/thnayem/enterprise-it-operations-portfolio/tree/main/management">View Documentation ↗</a></p>
-
-</td></tr>
-</table>
-
-## Portfolio Scope & Ongoing Documentation
-
-The repositories currently published represent a **curated selection** of my technical work and experience, rather than a complete record of every configuration, implementation, or troubleshooting activity I have handled. A broader range of configuration references, troubleshooting scenarios, and operational lessons has not yet been added to GitHub.
-
-I am progressively reviewing and documenting selected material before publication, with appropriate sanitization and attention to technical accuracy, confidentiality, and practical relevance. This ensures that the portfolio remains useful, responsible, and focused on meaningful engineering and operational outcomes.
-
-## Operations, Leadership & Case Studies
-
-Alongside technical references, I document the operational practices behind reliable infrastructure delivery: incident handling, controlled implementation, team coordination, time prioritization, stakeholder communication, vendor follow-up, and practical documentation.
+These repositories include templates and illustrative workflows in addition to technical references. They are intended to show how I think through work, not to imply authority, team size, project outcomes or metrics that I have not documented.
 
 - [Infrastructure Operations & Leadership Principles](./OPERATING-PRINCIPLES.md)
-- [Network troubleshooting scenarios and demos](https://github.com/thnayem/network-engineering-portfolio/blob/main/case-studies/troubleshooting-scenarios.md)
-- [Server operations case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies)
 - [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md)
 
-## Currently Developing
+## Currently learning and developing
 
-- FortiGate Firewall Administration
-- ITIL and IT Service Management
-- IT Governance, Risk and Compliance (GRC)
-- Configuration Management Database (CMDB)
-- Veeam Backup and Recovery
-- Data Center Networking: VXLAN, EVPN, and ACI
+- FortiGate firewall administration
+- ITIL and IT service management
+- IT governance, risk and compliance
+- CMDB and configuration management
+- Veeam backup and recovery
+- VXLAN, EVPN and data centre networking
 
 ## Education
 
 **BSc in Computer Science & Engineering**  
-City University | 2020
+City University · 2020
 
-## Training & Professional Development
+## Training and professional development
 
 - CCNA / CCNP Routing & Switching training
 - MTCNA / MTCRE training
 - JNCIA-Junos training
-- Linux Administration: Ubuntu and RHEL
+- Linux administration: Ubuntu and RHEL
 - CompTIA A+ training
-- ISO/IEC 27001 Information Security Associate™
+- ISO/IEC 27001 Information Security Associate training
 
-*Training and course credentials are listed as professional development; they should not be interpreted as active vendor-issued certifications unless explicitly stated.*
+Training is listed as professional development and should not be interpreted as an active vendor-issued certification unless explicitly stated.
 
 ## Connect
 
-- **Follow me on LinkedIn:** [linkedin.com/in/thnayem](https://www.linkedin.com/in/thnayem/)
-- **GitHub:** [github.com/thnayem](https://github.com/thnayem)
+- [LinkedIn](https://www.linkedin.com/in/thnayem/)
+- [GitHub](https://github.com/thnayem)
