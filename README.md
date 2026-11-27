@@ -1,94 +1,61 @@
 # Md. Tanvir Hossain
 
-### IT Infrastructure | Network & Systems Administration | Enterprise IT Operations
+**Network & Systems Administration | IT Infrastructure | Enterprise IT Operations**
 
 [LinkedIn](https://www.linkedin.com/in/thnayem/) · [GitHub](https://github.com/thnayem)
 
-I work across network and systems administration, enterprise infrastructure, and IT operations. Since starting hands-on work in March 2020, I have had the opportunity to support production environments, troubleshoot live services, maintain infrastructure, and learn from the people and situations around me.
+I started working hands-on in IT in March 2020. Since then, I have worked with enterprise and ISP infrastructure, supporting users and services, maintaining servers and network devices, and troubleshooting issues that do not always have an obvious cause.
 
-## A note about my real-world experience and this portfolio
+Most of that work happens behind the scenes. It is not practical or safe to publish company configurations, customer details, device backups or internal network information. So this GitHub is not a copy of my workplace. It is where I keep selected notes, lab examples, troubleshooting practice and things I have learned from doing the job. There is much more I have worked on than I have had time to document here.
 
-The hands-on production work I have been involved in is much broader than what is currently documented here. This GitHub profile is only a glimpse of that experience, not a complete record of every system, project, incident or responsibility I have handled. There is still a lot I have not added.
+I have worked with live production infrastructure, including remote configuration, maintenance, upgrades and troubleshooting of servers, routers and switches. The examples in these repositories are not presented as exact copies of production systems. I label learning examples and references separately so that the difference is clear.
 
-I do not publish original employer or customer production configurations, raw device backups, credentials, private network details or confidential documents. The material shared here is selected learning and study notes, independently prepared examples, lab exercises, troubleshooting write-ups, implementation practice and lessons drawn from practical work. Where a page describes production involvement, it is a high-level account with sensitive details removed; it should not be read as proof that a sample configuration was deployed unchanged in a live environment.
+I am not perfect, and I do make mistakes. When that happens, I believe I should be honest about it, understand what went wrong, take responsibility, communicate with the people affected and work on a proper correction. I also know when to check documentation or ask someone with more experience. I would rather say what I have actually done than pretend to know everything.
 
-I am a human being and I can make mistakes. What matters to me is being honest about them, listening to feedback, taking responsibility for my decisions and their impact, correcting what needs to be corrected, communicating clearly and learning so the same mistake is less likely to happen again. I do not claim to know everything. I am willing to investigate, ask for help when needed and own the work entrusted to me.
+## A little about my experience
 
-
-My experience includes enterprise and ISP environments, multi-vendor networking, Windows and Linux servers, virtualization, monitoring, connectivity, and day-to-day IT operations. I enjoy understanding why something fails, working through the evidence, and documenting what I learn so the next person has a clearer starting point.
-
-I am interested in roles where I can contribute technically while taking greater responsibility for infrastructure planning, service delivery, team coordination, and operational improvement.
-
----
-
-## A quick introduction
-
-- 6+ years of experience across system and network administration, infrastructure support, and IT operations
+- 6+ years across system and network administration, infrastructure support and IT operations
 - Supported corporate IT environments serving 250+ users
-- Worked with Cisco, MikroTik, Juniper, Huawei, Arista and other multi-vendor platforms
-- Hands-on involvement in production server, router and switch configuration, maintenance, upgrades, remote troubleshooting and verification
-- Experience across enterprise and ISP connectivity, WAN, routing, switching, VPNs, tunnels, DC/DR connectivity and monitoring
-- Working knowledge of Windows Server, Ubuntu, RHEL 9, CentOS 8 and VMware environments
-- Involved in incident follow-up, change coordination, vendor communication, documentation and service continuity
+- Worked with Cisco, MikroTik, Juniper, Huawei, Arista and other network platforms
+- Hands-on production work involving server, router and switch configuration, upgrades, maintenance and remote troubleshooting
+- Enterprise and ISP connectivity, WAN, routing, switching, VPNs, GRE tunnels and DC/DR connectivity
+- Windows Server, Ubuntu, RHEL 9, CentOS 8 and VMware environments
+- Monitoring, incident follow-up, change coordination, vendor communication and service checks
 
-## What I work with
+## Technologies I have worked with
 
 | Area | Technologies and topics |
 |---|---|
-| Enterprise networking | Cisco, MikroTik, Juniper, Huawei, Arista |
+| Networking | Cisco, MikroTik, Juniper, Huawei, Arista |
 | Routing and switching | BGP, OSPF, VLAN, STP/RSTP, MSTP, LACP, VRF, PBR |
 | WAN and connectivity | NTTN, GRE, IPsec, OSPF over GRE, multi-site and DC/DR connectivity |
 | Network services | DHCP, DNS, NAT, VPN, QoS, ACL |
-| Systems | Windows Server, Ubuntu, RHEL 9, CentOS 8 |
+| Operating systems | Windows Server, Ubuntu, RHEL 9, CentOS 8 |
 | Virtualization | VMware ESXi and virtual machine operations |
-| Monitoring | LibreNMS, Cacti and infrastructure monitoring concepts |
-| Enterprise IT | IP telephony, CCTV/NVR, fiber connectivity, ERP support, endpoint and hardware support |
-| Operations | Incident handling, change planning, maintenance, backup/rollback, verification and runbooks |
-| Coordination | Task prioritization, team coordination, vendor follow-up, SLA tracking and stakeholder updates |
+| Monitoring | LibreNMS, Cacti and infrastructure monitoring |
+| Enterprise IT | IP telephony, CCTV/NVR, fiber, ERP support, endpoint and hardware support |
+| Daily operations | Incidents, maintenance, change planning, backup/rollback, verification and runbooks |
+| Coordination | Task planning, team coordination, vendor follow-up, SLA tracking and updates |
 
-## Production experience and public documentation
+## What you will find here
 
-My hands-on work began before I started publishing technical notes on GitHub. The recent commit dates show when I began organizing and sharing selected material publicly; they do not represent the start of my professional experience.
-
-In production environments, my work has involved remote administration, configuration, upgrades, maintenance and troubleshooting of servers, routers and switches. I have also been involved in enterprise and ISP network operations, multi-site connectivity, provider coordination, service checks, DC/DR connectivity and post-change verification.
-
-I do not publish employer backups, customer information, credentials, private addressing or confidential network diagrams. The public repositories contain sanitized references and selected examples only.
-
-## How I approach the work
-
-I do not believe infrastructure work is just about knowing commands or configuring a device.
-
-I try to understand the impact before making a change, collect evidence before deciding on a cause, and prepare a recovery path before touching a critical service. When an incident happens, communication and ownership matter as much as technical troubleshooting. After the service is restored, the timeline, lessons and follow-up actions should not be lost.
-
-I am still learning. Some topics take several attempts before they make sense. I use labs to test ideas, read vendor documentation, compare approaches, troubleshoot what does not work, and write down the useful parts. I would rather be clear about what I have tested and what I am still learning than claim experience I cannot explain.
-
-I also believe good IT operations depend on people. Sharing knowledge, respecting colleagues, giving clear handovers and helping someone solve a problem are part of the job.
-
-## Explore my portfolio
-
-| Portfolio | Focus |
+| Repository | Main topics |
 |---|---|
-| [Network Engineering](https://github.com/thnayem/network-engineering-portfolio) | Multi-vendor routing, switching, ISP/WAN, tunnels, VPN, connectivity operations and troubleshooting |
-| [System & Server Virtualization](https://github.com/thnayem/system-server-virtualization-portfolio) | Windows Server, Linux, RHEL, CentOS, VMware, storage, backup and server operations |
-| [Enterprise IT Operations](https://github.com/thnayem/enterprise-it-operations-portfolio) | Monitoring, telephony, CCTV, fiber, ERP support, IT operations and management practices |
+| [Network Engineering](https://github.com/thnayem/network-engineering-portfolio) | Routing, switching, ISP/WAN, GRE, VPN, connectivity and troubleshooting |
+| [System & Server Virtualization](https://github.com/thnayem/system-server-virtualization-portfolio) | Windows Server, Linux, RHEL, CentOS, VMware, storage and backup |
+| [Enterprise IT Operations](https://github.com/thnayem/enterprise-it-operations-portfolio) | Monitoring, telephony, CCTV, fiber, ERP support and IT operations |
 
-### A useful five-minute route
+If you have only a few minutes, I suggest starting with the [network case studies](https://github.com/thnayem/network-engineering-portfolio/tree/main/case-studies), then looking at the [system administration case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies). The [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md) shows how I approach coordination, incidents, documentation and day-to-day IT work.
 
-1. Start with this profile to understand my background and how I separate experience from examples.
-2. Open the [Network Engineering case studies](https://github.com/thnayem/network-engineering-portfolio/tree/main/case-studies) for connectivity, OSPF over GRE and operational troubleshooting.
-3. Review the [System Administration case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies) for server and virtualization troubleshooting.
-4. Read the [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md) for incident handling, team coordination, time management, documentation and implementation planning.
+## How I approach IT work
 
-## Operations and leadership
+Before changing something important, I try to understand what is affected and what depends on it. I check the available evidence, look at recent changes and think about how to recover if the change does not go as planned. Once the issue is fixed, I check that the service is actually working, not just that a command returned a successful result.
 
-Alongside technical work, I am building my understanding of the practices that keep IT services dependable: incident ownership, clear escalation, task prioritization, change control, vendor follow-up, service reporting, knowledge sharing and practical documentation.
+I also value the people side of IT. Clear updates, useful handovers, sharing knowledge and helping colleagues matter. A technical fix is only part of the job if users are still confused or the next person has no idea what happened.
 
-These repositories include templates and illustrative workflows in addition to technical references. They are intended to show how I think through work, not to imply authority, team size, project outcomes or metrics that I have not documented.
+The management material in my repositories includes examples and reusable templates. It should not be taken as a claim about a particular team size, budget, authority or business result unless I have specifically documented that evidence.
 
-- [Infrastructure Operations & Leadership Principles](./OPERATING-PRINCIPLES.md)
-- [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md)
-
-## Currently learning and developing
+## What I am learning now
 
 - FortiGate firewall administration
 - ITIL and IT service management
@@ -111,9 +78,13 @@ City University · 2020
 - CompTIA A+ training
 - ISO/IEC 27001 Information Security Associate training
 
-Training is listed as professional development and should not be interpreted as an active vendor-issued certification unless explicitly stated.
+These are training and professional-development items, not a claim that I currently hold the corresponding vendor-issued certifications.
 
-## Connect
+## One last thing
+
+The dates on GitHub show when I started putting selected notes online. They do not show when I first started working with these technologies. I am gradually documenting more of what I have learned, including the things that took time, failed during testing or needed another approach.
+
+Thanks for taking the time to look through my work.
 
 - [LinkedIn](https://www.linkedin.com/in/thnayem/)
 - [GitHub](https://github.com/thnayem)
