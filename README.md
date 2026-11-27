@@ -83,6 +83,14 @@ I list training separately from certifications because completing a course and e
 
 The public repositories show only part of my work. Some pages describe production experience at a high level; others are sanitized references, lab exercises or study notes. I do not publish company configurations, customer information, device backups or internal network details.
 
+The work shared in these repositories is based on my practical experience, technical learning, lab work, implementation scenarios and troubleshooting challenges accumulated over the years.
+
+I have only recently started organizing and publishing parts of this knowledge on GitHub. Therefore, the repository creation dates and commit history reflect when I began documenting and sharing my work publicly — **not when I started gaining professional experience.**
+
+These repositories represent only a small part of what I have learned and worked on since 2020. There is much more experience and technical knowledge that I have not yet documented.
+
+I believe in learning through hands-on work, taking responsibility for my decisions, acknowledging mistakes and continuously improving. I am sharing these materials to document my journey, exchange knowledge and contribute to the IT infrastructure community.
+
 ## Authorship
 
 The technical work, decisions, troubleshooting and experience described here are mine. I sometimes use AI to edit wording or organize documentation, but not as a substitute for hands-on work or technical judgement. I review what I publish and take responsibility for it.
