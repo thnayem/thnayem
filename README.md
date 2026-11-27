@@ -81,16 +81,15 @@ I list training separately from certifications because completing a course and e
 
 ## A note about this portfolio
 
-The public repositories show only part of my work. Some pages describe production experience at a high level; others are sanitized references, lab exercises or study notes. I do not publish company configurations, customer information, device backups or internal network details.
+I cannot put my workplace on GitHub. Company configurations, customer details, device backups and internal network information need to stay private. So this profile is not a mirror of my production environment. It is a place where I share selected notes, lab work, troubleshooting examples and things I have learned along the way. There is a lot more I have worked on than I have managed to document here.
 
-The work shared in these repositories is based on my practical experience, technical learning, lab work, implementation scenarios and troubleshooting challenges accumulated over the years.
+The work shared in these repositories comes from practical experience, technical learning, lab work, implementation scenarios and troubleshooting challenges accumulated over the years. Some pages describe production work at a high level; others are sanitized references, lab exercises or study notes. I do not publish company configurations, customer information, device backups or internal network details.
 
-I have only recently started organizing and publishing parts of this knowledge on GitHub. Therefore, the repository creation dates and commit history reflect when I began documenting and sharing my work publicly — **not when I started gaining professional experience.**
+The dates on GitHub show when I started putting selected notes online. They do not show when I first started working with these technologies. I am adding material gradually, including things that took time to understand, failed during testing or needed another approach. I have only recently started organizing and publishing parts of this knowledge publicly, so repository creation dates and commit history reflect when I began documenting and sharing my work — **not when I started gaining professional experience.**
 
 These repositories represent only a small part of what I have learned and worked on since 2020. There is much more experience and technical knowledge that I have not yet documented.
 
-I believe in learning through hands-on work, taking responsibility for my decisions, acknowledging mistakes and continuously improving. I am sharing these materials to document my journey, exchange knowledge and contribute to the IT infrastructure community.
-
+I believe in learning through hands-on work, taking responsibility for my decisions, acknowledging mistakes and continuously improving. I keep people informed, work to resolve issues and document useful findings. I am sharing these materials to document my journey, exchange knowledge and contribute to the IT infrastructure community.
 ## Authorship
 
 The technical work, decisions, troubleshooting and experience described here are mine. I sometimes use AI to edit wording or organize documentation, but not as a substitute for hands-on work or technical judgement. I review what I publish and take responsibility for it.
