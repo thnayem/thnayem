@@ -1,37 +1,43 @@
 # Infrastructure Operations & Leadership
 
-This page explains how I think about the operational side of infrastructure engineering: service reliability, incident response, implementation discipline, documentation, and team coordination.
+This page is a short note on how I approach infrastructure work and the responsibilities I want to keep growing into.
 
-My production experience includes hands-on administration, maintenance, upgrades, and troubleshooting across enterprise and ISP infrastructure. The public repositories contain sanitized technical references and illustrative workflows; they do not expose confidential customer or employer records.
+My hands-on work began in March 2020 across system and network administration. I have been involved in production infrastructure support, remote configuration, maintenance, upgrades and troubleshooting in enterprise and ISP environments. The public repositories show selected, sanitized material; they are not a complete record of every task I have handled.
 
-## How I approach operational work
+## What matters in day-to-day operations
 
-- **Understand impact first:** Identify affected users, services, locations, and business priorities before changing infrastructure.
-- **Troubleshoot with evidence:** Work through physical, network, operating-system, virtualization, and application layers instead of guessing.
-- **Make controlled changes:** Review dependencies, capture a baseline, agree a maintenance window, prepare rollback, and verify after implementation.
-- **Communicate clearly:** Share what is confirmed, what is still being investigated, who owns the next action, and when the next update is due.
-- **Document for the next person:** Keep runbooks, incident timelines, change records, and handovers practical and current.
-- **Coordinate respectfully:** Make ownership clear, help colleagues remove blockers, share knowledge, and escalate risk early.
-- **Close the loop:** Validate service recovery with users or service owners and track preventive actions.
+- **Understand the impact first.** Find out which users, services and locations are affected before deciding what to change.
+- **Use evidence, not guesses.** Check logs, monitoring, interface and service state, recent changes and dependencies. Be ready to revise the first assumption.
+- **Make changes carefully.** Capture a baseline, confirm approvals and dependencies, agree a maintenance window, prepare rollback and verify the result.
+- **Keep people informed.** Explain what is confirmed, what is still being investigated, who owns the next action and when the next update will come.
+- **Make work easier to hand over.** Record the useful commands, decisions, timeline, recovery steps and remaining risks.
+- **Help the team learn.** Share context, ask questions, give colleagues room to work and review mistakes fairly after service is stable.
+- **Close the loop.** Confirm recovery with the service owner and give preventive actions an owner and due date.
+
+## How I think about leadership
+
+I do not see leadership as knowing every answer or simply assigning tasks. It is about helping people understand the priority, giving them the information and support they need, removing blockers and taking responsibility when work becomes difficult.
+
+I am still developing this side of my career. I learn from experienced colleagues, vendor documentation, incidents, labs and the things that do not work the first time. I try to be honest about what I have personally handled, what I have tested in a lab and what I still need to learn.
 
 ## Portfolio examples
 
 | Area | Reference |
 |---|---|
-| Network incidents, BGP/OSPF, GRE, provider connectivity | [Network case studies](https://github.com/thnayem/network-engineering-portfolio/tree/main/case-studies) |
-| Server, Linux, Windows, virtualization, backup and recovery | [System case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies) |
-| Incident management, people coordination, time management, documentation, vendors and implementation | [IT leadership & operations playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md) |
+| Network incidents, BGP/OSPF, GRE and provider connectivity | [Network case studies](https://github.com/thnayem/network-engineering-portfolio/tree/main/case-studies) |
+| Windows, Linux, virtualization, backup and recovery | [System case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies) |
+| Incident handling, people coordination, time management, documentation and vendor follow-up | [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md) |
 
 ## Evidence and integrity
 
-I distinguish three types of material in this portfolio:
+I keep three types of material separate:
 
-1. **Production experience:** Areas of infrastructure work I have been involved in, described without confidential identifiers.
-2. **Sanitized technical reference:** Reduced or anonymized material that explains a technology or operational pattern.
-3. **Illustrative lab/demo:** Independently authored examples for learning, validation, or interview discussion. These are not presented as proof of a production deployment.
+1. **Production experience:** Areas of work I have been involved in, described without confidential identifiers.
+2. **Sanitized technical reference:** Reduced or anonymized configuration and documentation. It is not a complete backup or automatically deployment-ready.
+3. **Lab/demo:** Independently authored examples for learning and validation. They are not proof of production deployment.
 
-I do not publish credentials, customer data, private topology, real internal addressing, or employer-confidential records. I also avoid inventing incident metrics, team sizes, savings, or outcomes.
+I do not publish credentials, customer data, private topology, real internal addressing or employer-confidential records. I do not invent incident metrics, team sizes, savings or outcomes.
 
-## My working belief
+## A principle I try to follow
 
-A reliable infrastructure environment is not built by configuration alone. It depends on sound engineering, clear ownership, calm incident handling, realistic planning, and people who can trust the information being shared.
+Reliable IT depends on more than technology. It takes sound engineering, clear ownership, calm communication and people who are willing to learn from one another. I want my work and documentation to reflect that.
