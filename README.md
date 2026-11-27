@@ -4,13 +4,13 @@
 
 [LinkedIn](https://www.linkedin.com/in/thnayem/) · [GitHub](https://github.com/thnayem)
 
-I started working hands-on in IT in March 2020. Since then, I have worked with enterprise and ISP infrastructure, supporting users and services, maintaining servers and network devices, and troubleshooting issues that do not always have an obvious cause.
+I started working hands-on in IT in March 2020. Since then, I have spent most of my time keeping networks, servers and everyday IT services running. The work has included enterprise and ISP environments, remote troubleshooting, maintenance, upgrades and the kind of problems that take a bit of patience to understand.
 
-Most of that work happens behind the scenes. It is not practical or safe to publish company configurations, customer details, device backups or internal network information. So this GitHub is not a copy of my workplace. It is where I keep selected notes, lab examples, troubleshooting practice and things I have learned from doing the job. There is much more I have worked on than I have had time to document here.
+I cannot put my workplace on GitHub. Company configurations, customer details, device backups and internal network information need to stay private. So this profile is not a mirror of my production environment. It is a place where I share selected notes, lab work, troubleshooting examples and things I have learned along the way. There is a lot more I have worked on than I have managed to document here.
 
-I have worked with live production infrastructure, including remote configuration, maintenance, upgrades and troubleshooting of servers, routers and switches. The examples in these repositories are not presented as exact copies of production systems. I label learning examples and references separately so that the difference is clear.
+I have worked hands-on with live production routers, switches and servers, including configuration, maintenance, upgrades and remote troubleshooting. The examples here are not exact copies of those systems. I try to make it clear when something is a lab, a learning note, a sanitized reference or a description of work I have been involved in.
 
-I am not perfect, and I do make mistakes. When that happens, I believe I should be honest about it, understand what went wrong, take responsibility, communicate with the people affected and work on a proper correction. I also know when to check documentation or ask someone with more experience. I would rather say what I have actually done than pretend to know everything.
+I still make mistakes. Sometimes the first approach does not work, or I find that I misunderstood part of the problem. I think the important thing is to be honest about it, check the impact, take responsibility, keep the affected people informed and work toward a proper fix. I am comfortable saying when I need to check documentation or learn something new. I do not want to claim work or knowledge I cannot explain.
 
 ## A little about my experience
 
@@ -37,23 +37,23 @@ I am not perfect, and I do make mistakes. When that happens, I believe I should 
 | Daily operations | Incidents, maintenance, change planning, backup/rollback, verification and runbooks |
 | Coordination | Task planning, team coordination, vendor follow-up, SLA tracking and updates |
 
-## What you will find here
+## My repositories
 
-| Repository | Main topics |
+| Repository | What I keep there |
 |---|---|
 | [Network Engineering](https://github.com/thnayem/network-engineering-portfolio) | Routing, switching, ISP/WAN, GRE, VPN, connectivity and troubleshooting |
 | [System & Server Virtualization](https://github.com/thnayem/system-server-virtualization-portfolio) | Windows Server, Linux, RHEL, CentOS, VMware, storage and backup |
-| [Enterprise IT Operations](https://github.com/thnayem/enterprise-it-operations-portfolio) | Monitoring, telephony, CCTV, fiber, ERP support and IT operations |
+| [Enterprise IT Operations](https://github.com/thnayem/enterprise-it-operations-portfolio) | Monitoring, telephony, CCTV, fiber, ERP support and everyday IT operations |
 
-If you have only a few minutes, I suggest starting with the [network case studies](https://github.com/thnayem/network-engineering-portfolio/tree/main/case-studies), then looking at the [system administration case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies). The [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md) shows how I approach coordination, incidents, documentation and day-to-day IT work.
+If you are short on time, start with the [network case studies](https://github.com/thnayem/network-engineering-portfolio/tree/main/case-studies) or the [server operations case studies](https://github.com/thnayem/system-server-virtualization-portfolio/tree/main/case-studies). For the people and coordination side of IT, there is an [IT Leadership & Operations Playbook](https://github.com/thnayem/enterprise-it-operations-portfolio/blob/main/management/leadership-and-operations-playbook.md). It contains working references and examples, not claims about a particular team size or management authority.
 
-## How I approach IT work
+## How I approach the work
 
-Before changing something important, I try to understand what is affected and what depends on it. I check the available evidence, look at recent changes and think about how to recover if the change does not go as planned. Once the issue is fixed, I check that the service is actually working, not just that a command returned a successful result.
+When something breaks, I try to understand who is affected before jumping into commands. I check what changed, gather the available evidence and work through the likely causes. For an important change, I want a backup or baseline, a recovery plan and a way to verify the service afterward.
 
-I also value the people side of IT. Clear updates, useful handovers, sharing knowledge and helping colleagues matter. A technical fix is only part of the job if users are still confused or the next person has no idea what happened.
+I have also learned that technical work is only part of the job. People need clear updates. The next engineer needs a useful handover. Colleagues should be able to learn from a problem instead of having to figure out everything again. I try to share what I learn, including the parts that did not go smoothly.
 
-The management material in my repositories includes examples and reusable templates. It should not be taken as a claim about a particular team size, budget, authority or business result unless I have specifically documented that evidence.
+The management material in my repositories includes examples and reusable templates. It should not be taken as a claim about a particular team size, budget, authority or business result unless I have specifically documented evidence.
 
 ## What I am learning now
 
@@ -86,11 +86,11 @@ City University · 2020
 - Linux administration: Ubuntu and RHEL
 - CompTIA A+ training
 
-The certifications above are listed separately from training and professional-development items.
+I have kept certifications separate from training because they are not the same thing.
 
 ## One last thing
 
-The dates on GitHub show when I started putting selected notes online. They do not show when I first started working with these technologies. I am gradually documenting more of what I have learned, including the things that took time, failed during testing or needed another approach.
+The dates on GitHub show when I started putting selected notes online. They do not show when I first started working with these technologies. I am adding material gradually, including things that took time to understand, failed during testing or needed another approach.
 
 Thanks for taking the time to look through my work.
 
