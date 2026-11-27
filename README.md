@@ -60,6 +60,21 @@ The repositories and commits published here are a recent effort to organize, doc
 
 I am sharing sanitized configuration references, technical notes, and operational knowledge while continuing to learn, improve, and contribute to the networking and IT infrastructure community.
 
+## Production Infrastructure & Connectivity Operations
+
+My practical experience includes hands-on work in live production infrastructure across enterprise and ISP environments, including:
+
+- Remote administration, configuration, upgrades, maintenance, and troubleshooting of production servers, routers, and switches.
+- Enterprise and ISP routing and switching operations, including BGP, OSPF, VLANs, and multi-vendor network environments.
+- Site-to-site and multi-site connectivity over NTTN links, including service coordination, fault follow-up, and SLA monitoring with connectivity providers.
+- OSPF routing over GRE tunnels and operational support for VPN and tunnel-based connectivity.
+- Core and access fiber infrastructure, including maintenance coordination for owned dark-fiber/core cable routes.
+- Data Centre and Disaster Recovery connectivity operations, including port and bandwidth coordination, cross-connects, BGP/OSPF routing, VPNs, and tunnels.
+- DC/DR infrastructure maintenance, connectivity checks, incident coordination, and service-continuity support.
+- Controlled operational changes, fault isolation, remote troubleshooting, post-change verification, and coordination with vendors and internal stakeholders.
+
+These points describe areas of practical operational involvement. Public repositories contain sanitized documentation and selected technical references; confidential production configurations and identifiers are not published.
+
 ## Selected Technical Portfolio
 
 My portfolio contains sanitized, source-derived configuration references and technical documentation from previous infrastructure and ISP engineering work. Sensitive production identifiers, credentials, and operational details are excluded.
