@@ -55,6 +55,8 @@ I have also learned that technical work is only part of the job. People need cle
 
 The management material in my repositories includes examples and reusable templates. It should not be taken as a claim about a particular team size, budget, authority or business result unless I have specifically documented evidence.
 
+For a little more detail on how I handle incidents, changes, handovers and team responsibilities, see [my operating principles](OPERATING-PRINCIPLES.md).
+
 ## What I am learning now
 
 - FortiGate firewall administration
