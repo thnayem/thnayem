@@ -69,6 +69,15 @@ The management material in my repositories includes examples and reusable templa
 **BSc in Computer Science & Engineering**  
 City University · 2020
 
+## Certifications
+
+- **ISO/IEC 27001 Information Security Associate™**  
+  SkillFront · Issued February 2026  
+  Credential ID: 09116602311461
+
+- **CCEP (Certificate of Cybersecurity Educator Professional)**  
+  Red Team Leaders · Issued November 2025
+
 ## Training and professional development
 
 - CCNA / CCNP Routing & Switching training
@@ -76,9 +85,8 @@ City University · 2020
 - JNCIA-Junos training
 - Linux administration: Ubuntu and RHEL
 - CompTIA A+ training
-- ISO/IEC 27001 Information Security Associate training
 
-These are training and professional-development items, not a claim that I currently hold the corresponding vendor-issued certifications.
+The certifications above are listed separately from training and professional-development items.
 
 ## One last thing
 
